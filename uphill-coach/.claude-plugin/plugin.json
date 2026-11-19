@@ -1,0 +1,9 @@
+{
+  "name": "uphill-coach",
+  "displayName": "Uphill AI Coach",
+  "description": "Your Uphill AI training plan, race tools and coach. Needs an Uphill AI account.",
+  "author": { "name": "Uphill AI", "url": "https://uphill-ai.io.vn" },
+  "homepage": "https://uphill-ai.io.vn/assistants",
+  "privacyPolicyUrl": "https://uphill-ai.io.vn/privacy",
+  "keywords": ["running", "trail running", "training plan", "coach"]
+}

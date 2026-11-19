@@ -1,0 +1,12 @@
+{
+  "name": "uphill-ai",
+  "description": "Uphill AI: your trail and mountain running coach, inside your assistant",
+  "owner": { "name": "Uphill AI" },
+  "plugins": [
+    {
+      "name": "uphill-coach",
+      "source": "./uphill-coach",
+      "description": "Your Uphill AI training plan, race tools and coach, for Uphill AI runners"
+    }
+  ]
+}

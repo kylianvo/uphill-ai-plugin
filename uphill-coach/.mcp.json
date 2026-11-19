@@ -1,0 +1,1 @@
+{ "mcpServers": { "uphill": { "type": "http", "url": "https://api.uphill-ai.io.vn/mcp" } } }
